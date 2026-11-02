@@ -1,0 +1,36 @@
+GAMER BOOST YYRR5444 VIP — VERSIÓN WEB INSTALABLE (PWA)
+
+ARCHIVOS
+- index.html: panel.
+- manifest.webmanifest: identidad e instalación.
+- sw.js: caché para uso sin conexión después de la primera carga.
+- icon-192.png e icon-512.png: iconos.
+
+IMPORTANTE: ESTO NO ES UN APK
+Es una aplicación web instalable desde Chrome (PWA). No es un archivo APK y no requiere Android Studio ni Firebase Console.
+
+CÓMO INSTALAR EN ANDROID
+1. Publica el contenido de esta carpeta en un alojamiento web HTTPS de confianza.
+2. Abre la dirección HTTPS en Google Chrome desde el teléfono.
+3. Abre el menú ⋮ de Chrome y elige "Instalar aplicación" o "Añadir a pantalla principal".
+4. Confirma. Aparecerá el acceso GAMER BOOST en la pantalla de inicio.
+
+PARA PROBAR EN PC
+Puedes abrirlo mediante un servidor web local. Para que Chrome permita instalarlo, usa HTTPS o localhost. Abrir index.html directamente como archivo no habilita todas las funciones PWA.
+
+PRIMER USO
+1. Abre la aplicación y crea dos códigos de administrador distintos, de al menos 8 caracteres.
+2. Entra como Administrador 1 o 2.
+3. Agrega, bloquea o reactiva usuarios VIP.
+4. Usa los botones para abrir las fichas de Roblox y Free Fire.
+
+LÍMITES IMPORTANTES
+- Los datos y códigos se guardan solamente en el navegador de ese teléfono.
+- No hay sincronización entre los dos celulares. Cada dispositivo tendrá su propia lista.
+- El prototipo no puede verificar ni imponer un límite global de dos dispositivos.
+- Los códigos locales no equivalen a una autenticación segura de servidor. No uses contraseñas importantes ni guardes datos sensibles.
+- La app no modifica Roblox ni Free Fire y no garantiza eliminar el lag.
+- La caché permite abrir los archivos de la app sin conexión después de haberla cargado, pero los enlaces a juegos requieren internet.
+
+SEGURIDAD
+Publica únicamente en un servicio de alojamiento confiable y mantén privados los códigos de administrador.

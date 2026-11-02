@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "GAMER BOOST YYRR5444 VIP",
+  "short_name": "GAMER BOOST",
+  "description": "Panel local de administración VIP para Roblox y Free Fire",
+  "lang": "es-MX",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#101010",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
